@@ -1,19 +1,17 @@
 # 100 Days Of Code - 学習ログ
 
-### 0日目: 2016年2月28日
+### day0:
+  ・ポートフォリオにRubocop導入 2h40
+  ・qiita投稿 「RuboCop Airbnbを導入してみた」 2h30
+  ・ブログ更新 「GitHub フォークについて」 30m
 
-**今日の進捗**: 計算機アプリのCSSを修正して、canvasの機能に取り掛かった。
+  ポートフォリオにRubocopを使用したが、コーディング違反が230個見つかった。
+  インデントにtabを使うときは気をつける必要があることを学んだ。
+  qiitaにまとめるのに予想以上に時間が掛かった。
 
-**思ったこと** CSSにはとても苦労したけど、少しずつ上達してきてる気がする。Canvasはまだ始めたばっかりだけど、基本的な機能はいくつか理解できてきた。
+  [RuboCop Airbnbを導入してみた](https://qiita.com/mrBuild19/items/80467df79e8bd3c0ce1d)
+  [GitHub フォークについて](https://build19.hatenablog.jp/entry/2020/08/04/111656)
 
-**リンク** [計算機アプリ](http://www.example.com)
+  #エンジニアと繋がりたい
+　#100DaysOfCode
 
-### 1日目: 2016年6月27日（月）
-
-**今日の進捗**: FreeCodeCampの演習をたくさん進めた。
-
-**思ったこと** プログラミングを始めたばかりだから、何時間もかけてやっとアルゴリズムのチャレンジが解けるとめちゃくちゃ気持ちいい！
-
-**リンク**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
