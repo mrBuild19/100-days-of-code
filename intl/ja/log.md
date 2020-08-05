@@ -12,6 +12,10 @@
   [RuboCop Airbnbを導入してみた](https://qiita.com/mrBuild19/items/80467df79e8bd3c0ce1d)<br>
   [GitHub フォークについて](https://build19.hatenablog.jp/entry/2020/08/04/111656)
 
-  #エンジニアと繋がりたい<br>
-　#100DaysOfCode
+
+### day1:
+  - Rpsec 単体テスト コントローラーテスト作成 4h
+
+  コントローラーのテストはアクセス制御の機能を重点的にテストした。
+
 
